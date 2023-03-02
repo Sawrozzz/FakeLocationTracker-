@@ -1,0 +1,1 @@
+API_KEY = 'Your personal api key form opencage'
